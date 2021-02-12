@@ -11,6 +11,25 @@
   padding-left: 3%;
   
 }
+
+.pic2{
+  padding-top:  10px;
+  padding-bottom: 10px;
+}
+.art{
+  padding-top: 10px;
+}
+
+#home-heading {
+  position: relative;
+  min-height: 200px;
+  background-color: blue;
+  background: url('/img/medinaa.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
   
   
 
