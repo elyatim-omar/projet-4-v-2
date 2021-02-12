@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    
+  }
+.navbar-brand{
+  font-size: 1.5em;
+}
+
+.navbar-nav li {
+  padding-left: 3%;
+  
+}
+  
+  
+
+
+    
